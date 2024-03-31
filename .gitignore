@@ -2,3 +2,6 @@
 Airplane_Crashes_and_Fatalities_Since_1908.csv
 GoogleNews-vectors-negative300.bin.gz
 crashes.csv
+clean_crashes.csv
+spacy_on_summary.csv
+clean_crashes.clustered_summary.csv
