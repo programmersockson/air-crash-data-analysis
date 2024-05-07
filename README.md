@@ -1,2 +1,2 @@
 # air-crash-data-analysis
-Repository for my ongoing university course work
+Repository for my university course work
